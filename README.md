@@ -1,2 +1,0 @@
-# AnalisiDC
-# AnalisiDC
